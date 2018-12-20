@@ -3,6 +3,8 @@ int main()
 {
   int begin = 0, end = 1, sredina, odg;
   printf("Zamislite prirodan broj!\n");
+  printf("dragana govno najvece");
+  printf("\n");
   while (1)
   {
     printf("Da li je broj veci od %d? (1/0) ", end);
