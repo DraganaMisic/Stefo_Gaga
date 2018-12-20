@@ -18,6 +18,7 @@ int main()
     if (odg) begin = sredina + 1;
     else end = sredina;
   }
+  printf("Stefo hoce li raditi");
   printf("Zamislili ste broj: %d", end);
   return 0;
 }
